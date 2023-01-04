@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  HomeView.swift
 //  App01-MiPerfil
 //
 //  Created by Brenda Saucedo on 11/08/22.
