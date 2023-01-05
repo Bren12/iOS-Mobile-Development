@@ -20,7 +20,7 @@ struct ListView: View {
                     // Section Name
                     Section("Friends") {
                         
-                        // Displays the data of the "foraneo" user array.
+                        // Displays the data of the "friends" user array.
                         ForEach(User.friends, id: \.id) {
                             person in
                             // Navigate to another screen with the
