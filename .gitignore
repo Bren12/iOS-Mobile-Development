@@ -1,2 +1,5 @@
 # Xcode cache
 .DS_Store
+
+# Others
+GoogleService-Info.plist
