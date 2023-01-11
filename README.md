@@ -6,9 +6,7 @@ Course: TC2007B (Integration of Computer Security in Networks and Software Syste
 <br>
 Developed by: [Brenda Saucedo](https://github.com/Bren12)
 <br>
-Semester: Aug-Dec 2022
-<br>
-Group: 402
+Semester: AD22
 
 ## Files Description
 
