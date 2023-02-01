@@ -2,11 +2,9 @@
 
 Source code developed for the module of Mobile Development in the TC2007B course.
 
-Course: TC2007B (Integration of Computer Security in Networks and Software Systems)
-<br>
-Developed by: [Brenda Saucedo](https://github.com/Bren12)
-<br>
-Semester: AD22
+**Course:** TC2007B (Integration of Computer Security in Networks and Software Systems) <br>
+**Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
+**Semester:** AD22
 
 ## Files Description
 
